@@ -7,4 +7,4 @@ tool.Activated:connect(function()
     pos = CFrame.new(pos.X, pos.Y, pos.Z)
     game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = pos
 end)
-tool.Parent = game.Players.LocalPlayer.Backpack
+tool.Parent = game.Players.LocalPlayer.Backpack 
