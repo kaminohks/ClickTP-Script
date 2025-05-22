@@ -5,11 +5,11 @@ Click To Teleport Script
 
 <br>
 
-<li><b>Verifica o destino:</b> Quando o jogador clica, o script determina a posição para onde o jogador será teletransportado. Isso pode ser uma posição fixa ou uma parte específica do mapa (como um ponto de spawn ou uma plataforma) usando as cordenadas dimensionalistas X, Y e Z.</li>
+<li><b>Verifica o destino:</b> Quando o jogador clica, o script <b>determina a posição</b> para onde o jogador será teletransportado. Isso pode ser uma posição fixa ou uma parte específica do mapa (como um ponto de spawn ou uma plataforma) usando as cordenadas dimensionalistas X, Y e Z.</li>
 
 <br>
 
-<li><b>Realiza o teletransporte: </b> O script move o jogador para a nova posição usando um comando como HumanoidRootPart.CFrame = destino.CFrame o que altera a posição do jogador no mundo.</li>
+<li><b>Realiza o teletransporte: </b> O script <b>move o jogador</b> para a nova posição usando um comando como HumanoidRootPart.CFrame = destino.CFrame o que altera a posição do jogador no mundo.</li>
 
 <br>
 
